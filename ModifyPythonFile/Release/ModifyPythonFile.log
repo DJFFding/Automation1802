@@ -1,0 +1,8 @@
+﻿  ModifyPythonFile.cpp
+c:\users\24676\source\repos\modifypythonfile\modifypythonfile\modifypythonfile.cpp(188): warning C4309: “=”: 截断常量值
+  正在生成代码
+  2 of 298 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ModifyPythonFile.vcxproj -> C:\Users\24676\source\repos\ModifyPythonFile\Release\ModifyPythonFile.exe
