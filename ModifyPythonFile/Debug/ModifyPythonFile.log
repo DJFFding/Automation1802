@@ -1,0 +1,4 @@
+﻿  ModifyPythonFile.cpp
+c:\users\24676\source\repos\modifypythonfile\modifypythonfile\modifypythonfile.cpp(137): warning C4309: “=”: 截断常量值
+c:\users\24676\source\repos\modifypythonfile\modifypythonfile\modifypythonfile.cpp(208): warning C4309: “=”: 截断常量值
+  ModifyPythonFile.vcxproj -> C:\Users\24676\source\repos\ModifyPythonFile\Debug\ModifyPythonFile.exe
